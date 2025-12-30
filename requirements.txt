@@ -1,0 +1,9 @@
+selenium
+webdriver-manager
+requests
+plyer
+kivy
+
+
+
+// pip install -r requirements.txt
