@@ -36,6 +36,4 @@ Install all dependencies using:
 pip install -r requirements.txt
 
 
-python aura_gold.py
-
 
